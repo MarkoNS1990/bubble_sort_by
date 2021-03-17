@@ -4,6 +4,7 @@ This is Bubble sort program
 # Github link:
 
 - Clonning the project: git clone (https://github.com/MarkoNS1990/bubble_sort_by.git)
+- To open folder : cd .\bubble_sort_by\
 
 # Instruction
 
